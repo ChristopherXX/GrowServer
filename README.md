@@ -3,6 +3,7 @@
 ## Info
 - Build in release/x64 or debug/x64 | C++ 17 (ISO C++17 Standard (std:c++17))
 - Many stuff havn't been added including database.
+- Discord: ChristopherXX#2918
 ## Credits
 - https://github.com/lsalzman/enet (ENet)
 - https://github.com/GrowtopiaNoobs/
