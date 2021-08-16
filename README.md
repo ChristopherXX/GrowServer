@@ -1,7 +1,7 @@
 # GrowServer
 **Growtopia Private Server written in c++ using ENet libary**
 ## Info
-- Build in release/x64 or debug/x64 | C++ 17 (ISO C++17 Standard (std:c++17))
+- Build in release/x64 or debug/x64 | ISO C++17 Standard)
 - Many stuff havn't been added including database.
 - Discord: ChristopherXX#2918
 ## Credits
